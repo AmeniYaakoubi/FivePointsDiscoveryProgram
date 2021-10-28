@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.title{
+    color: rgb(177, 39, 39);
+    text-align : center;
+}
+.sub-title{
+    color: rgb(177, 39, 39);
+    text-align: center;
+    padding-bottom: 50px;
+}
+.paragraphe{
+
+ background-color: grey;
+ color : rgb(255 255 255);
+ border: 2px black solid;
+ border-radius: 20px;
+ margin: 0px 20px 0px 20px;
+ padding: 20px 20px;
+
+}
+.btn{
+
+    background-color: grey;
+    border-radius: 20px;
+    border: 2px black solid;
+    padding: 10px 20px;
+}
+.btn a{
+    text-align: center;
+    color: rgb(255 255 255);
+}
